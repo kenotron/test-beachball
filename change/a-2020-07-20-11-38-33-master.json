@@ -1,0 +1,8 @@
+{
+  "type": "patch",
+  "comment": "trying to trip up the system",
+  "packageName": "a",
+  "email": "kchau@microsoft.com",
+  "dependentChangeType": "patch",
+  "date": "2020-07-20T18:38:33.597Z"
+}
