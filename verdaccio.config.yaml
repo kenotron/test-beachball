@@ -5,9 +5,9 @@ auth:
 packages:
   "@*/*":
     access: $all
-    publish: $authenticated
-    proxy: npmjs
+    publish: $all
   "**":
-    proxy: npmjs
+    access: $all
+    publish: $all
 logs:
   - { type: stdout, format: pretty, level: http }
