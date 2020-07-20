@@ -1,0 +1,20 @@
+{
+  "name": "a",
+  "entries": [
+    {
+      "date": "Mon, 20 Jul 2020 18:36:59 GMT",
+      "tag": "a_v1.0.1",
+      "version": "1.0.1",
+      "comments": {
+        "patch": [
+          {
+            "comment": "asdf",
+            "author": "kchau@microsoft.com",
+            "commit": "be317e992b54b74f3764ce39d74609a31964af64",
+            "package": "a"
+          }
+        ]
+      }
+    }
+  ]
+}
