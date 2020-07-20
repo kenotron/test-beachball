@@ -1,0 +1,13 @@
+storage: ./storage
+auth:
+  htpasswd:
+    file: ./htpasswd
+packages:
+  "@*/*":
+    access: $all
+    publish: $authenticated
+    proxy: npmjs
+  "**":
+    proxy: npmjs
+logs:
+  - { type: stdout, format: pretty, level: http }

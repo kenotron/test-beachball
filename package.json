@@ -17,6 +17,6 @@
     "verdaccio-memory": "^9.7.1"
   },
   "scripts": {
-    "registry": "verdaccio"
+    "registry": "verdaccio -c verdaccio.config.yaml"
   }
 }
