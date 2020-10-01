@@ -2,6 +2,21 @@
   "name": "a",
   "entries": [
     {
+      "date": "Thu, 01 Oct 2020 03:36:32 GMT",
+      "tag": "a_v1.1.0",
+      "version": "1.1.0",
+      "comments": {
+        "minor": [
+          {
+            "comment": "just a change",
+            "author": "ken@gizzar.com",
+            "commit": "211ba5f0aaed2705a2a96981134d4e719d1c14ab",
+            "package": "a"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 25 Aug 2020 21:42:12 GMT",
       "tag": "a_v1.0.4",
       "version": "1.0.4",

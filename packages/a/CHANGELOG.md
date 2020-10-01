@@ -1,8 +1,16 @@
 # Change Log - a
 
-This log was last generated on Tue, 25 Aug 2020 21:42:12 GMT and should not be manually modified.
+This log was last generated on Thu, 01 Oct 2020 03:36:32 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.1.0
+
+Thu, 01 Oct 2020 03:36:32 GMT
+
+### Minor changes
+
+- just a change (ken@gizzar.com)
 
 ## 1.0.4
 
