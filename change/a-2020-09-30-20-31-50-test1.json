@@ -1,0 +1,8 @@
+{
+  "type": "minor",
+  "comment": "just a change",
+  "packageName": "a",
+  "email": "ken@gizzar.com",
+  "dependentChangeType": "patch",
+  "date": "2020-10-01T03:31:50.195Z"
+}
