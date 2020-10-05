@@ -23,6 +23,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: yarn
 
+      - run: git fetch origin master:master
+
       - run: git diff origin master...
 
       - run: yarn checkchange
