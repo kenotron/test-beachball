@@ -2,6 +2,8 @@
 
 . demo-magic.sh
 
+PROMPT_TIMEOUT=1
+
 pei "echo \"this is a demo of beachball\""
 
 pei "git clone git@github.com:kenotron/test-beachball.git"
@@ -29,6 +31,8 @@ pei "echo \"doing a beachball check at this point should FAIL\""
 pei "yarn beachball check"
 
 pei "echo \"we need to create a change file\""
+
+pei "yarn beachball change"
 
 pei "echo \"check out the new change file\""
 
