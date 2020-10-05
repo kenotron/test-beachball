@@ -17,6 +17,7 @@
     "verdaccio-memory": "^9.7.1"
   },
   "scripts": {
-    "reg": "verdaccio -c verdaccio.config.yaml"
+    "reg": "verdaccio -c verdaccio.config.yaml",
+    "checkchange": "beachball check"
   }
 }
