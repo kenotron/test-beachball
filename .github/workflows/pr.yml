@@ -17,14 +17,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
       - run: yarn
-
-      - run: git fetch origin master:refs/remotes/origin/master
-      - run: git fetch origin $GITHUB_REF:refs/remotes/origin/$GITHUB_REF
 
       - run: git diff origin/master...
 
