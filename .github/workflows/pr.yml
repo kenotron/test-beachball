@@ -24,7 +24,7 @@ jobs:
       - run: yarn
 
       - run: git fetch origin master:refs/remotes/origin/master
-      - run: git fetch origin ${{GITHUB_REF}}:refs/remotes/origin/${{GITHUB_REF}}
+      - run: git fetch origin $GITHUB_REF:refs/remotes/origin/$GITHUB_REF
 
       - run: git diff origin/master...
 
