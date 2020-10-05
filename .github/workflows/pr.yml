@@ -22,4 +22,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: yarn
+
+      - run: git diff origin/master...
+
       - run: yarn checkchange
