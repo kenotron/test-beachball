@@ -2,6 +2,21 @@
   "name": "a",
   "entries": [
     {
+      "date": "Wed, 07 Oct 2020 23:18:43 GMT",
+      "tag": "a_v1.1.6",
+      "version": "1.1.6",
+      "comments": {
+        "patch": [
+          {
+            "comment": "It's a new change!",
+            "author": "kchau@microsoft.com",
+            "commit": "894d2c78c714375d0c586cd87483059a5d6d6766",
+            "package": "a"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 06 Oct 2020 04:18:03 GMT",
       "tag": "a_v1.1.5",
       "version": "1.1.5",
