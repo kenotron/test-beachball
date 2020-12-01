@@ -1,8 +1,16 @@
 # Change Log - a
 
-This log was last generated on Mon, 30 Nov 2020 23:12:12 GMT and should not be manually modified.
+This log was last generated on Tue, 01 Dec 2020 00:08:07 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.1.9
+
+Tue, 01 Dec 2020 00:08:07 GMT
+
+### Patches
+
+- It's a new change! (kchau@microsoft.com)
 
 ## 1.1.8
 
