@@ -2,6 +2,27 @@
   "name": "a",
   "entries": [
     {
+      "date": "Wed, 09 Dec 2020 21:37:25 GMT",
+      "tag": "a_v1.1.10",
+      "version": "1.1.10",
+      "comments": {
+        "patch": [
+          {
+            "comment": "It's a new change!",
+            "author": "kchau@microsoft.com",
+            "commit": "2da8b75e549ab1797fd54314b66e1049719dd53e",
+            "package": "a"
+          },
+          {
+            "comment": "It's a new change!",
+            "author": "kchau@microsoft.com",
+            "commit": "7cf624f67136f2c76d4c8d44fde4d609beedc0aa",
+            "package": "a"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 01 Dec 2020 00:08:07 GMT",
       "tag": "a_v1.1.9",
       "version": "1.1.9",

@@ -1,8 +1,0 @@
-{
-  "type": "patch",
-  "comment": "It's a new change!",
-  "packageName": "a",
-  "email": "kchau@microsoft.com",
-  "dependentChangeType": "patch",
-  "date": "2020-12-09T21:36:24.159Z"
-}
